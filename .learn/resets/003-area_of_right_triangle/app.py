@@ -4,9 +4,7 @@ h = input("Size of H")
 
 def area_of_triangle(arg1, arg2):
     #your code here, please remove the "None" 
-    b = int(arg1)
-    h = int(arg2)
-    return (b*h)/2
+    return None
 
 # Testing your function
 print(area_of_triangle(b, h))

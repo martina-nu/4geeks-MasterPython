@@ -1,8 +1,7 @@
 #Complete the function below to print the output per the example.
 def hello_name(name):
-    greeting = "Hello, " + name + "!"
-    return greeting
 
+    return None
 
 
 
